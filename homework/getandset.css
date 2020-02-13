@@ -1,0 +1,33 @@
+.paragraph{
+    background-color: turquoise;
+    color:tomato;
+    border:1px solid black;
+    max-width: 300px;
+    padding: 10px;
+    margin:5px auto;
+    text-align: center;
+    border-radius: 10px;
+}
+ul li{
+    list-style: none;
+}
+.warning{
+    background-color: blueviolet;
+    color:rgb(8, 8, 46);
+    border:1px solid rgb(30, 52, 149);
+    max-width: 300px;
+    padding: 10px;
+    margin:5px auto;
+    text-align: center;
+    border-radius: 10px;
+}
+.primary{
+    background-color: blueviolet;
+    color:rgb(8, 8, 46);
+    border:1px solid rgb(30, 52, 149);
+    max-width: 300px;
+    padding: 10px;
+    margin:5px auto;
+    text-align: center;
+    border-radius: 10px;
+}
